@@ -29,7 +29,7 @@ add hashids’s service provider in `config/app.php`
 ),
 ```
 
-and parsedown’s facade (also in `config/app.php`)
+and hashids’s facade (also in `config/app.php`)
 
 ```php
 'aliases' => array(
