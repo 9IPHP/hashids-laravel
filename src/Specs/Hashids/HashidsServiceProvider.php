@@ -11,7 +11,7 @@ class HashidsServiceProvider extends ServiceProvider {
 
     public function boot()
     {
-        $configPath = __DIR__ . '/../config/hashids.php';
+        $configPath = __DIR__ . '/../../../config/hashids.php';
         if (function_exists('config_path')) {
             $publishPath = config_path('hashids.php');
         } else {
