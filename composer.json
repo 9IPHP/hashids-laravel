@@ -1,6 +1,6 @@
 {
     "name": "specs/hashids-laravel",
-    "description": "A hashids (hashids) wrapper for Laravel ",
+    "description": "A hashids (hashids) wrapper for Laravel",
     "keywords": ["laravel", "laravel 5", "hashids", "hash", "id", "integer", "php"],
     "homepage": "https://github.com/specs/hashids-laravel",
     "license": "MIT",
