@@ -10,7 +10,6 @@
             "email": "specs@9iphp.com"
         }
     ],
-    "minimum-stability": "v0.1.0",
     "require": {
         "php": ">=5.3.0",
         "hashids/hashids": "^1.0"
